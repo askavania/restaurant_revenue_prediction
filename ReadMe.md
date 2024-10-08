@@ -1,7 +1,3 @@
-Here’s the revised README, highlighting key findings and including a conclusion section:
-
----
-
 # **Restaurant Revenue Prediction**
 
 ## **Project Overview**
